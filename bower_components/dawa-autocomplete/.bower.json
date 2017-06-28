@@ -1,0 +1,35 @@
+{
+  "name": "dawa-autocomplete",
+  "version": "2.0.1",
+  "authors": [
+    "Anders Hessellund Jensen <ahj@trifork.com>",
+    "Jakob Roesgaard Færch <jrf@trifork.com>"
+  ],
+  "description": "Autocomplete komponent for indtastning af adresse",
+  "homepage": "https://github.com/DanmarksAdresser/autocomplete",
+  "license": "MIT",
+  "private": false,
+  "main": "dawa-autocomplete.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo.html"
+  ],
+  "dependencies": {
+    "jquery/jquery": "~3.1.1",
+    "jquery/jquery-ui": "~1.12.1"
+  },
+  "_release": "2.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.1",
+    "commit": "98229555e9e3098378366af5d58d9f37841a754d"
+  },
+  "_source": "https://github.com/DanmarksAdresser/autocomplete.git",
+  "_target": "^2.0.1",
+  "_originalSource": "dawa-autocomplete",
+  "_direct": true
+}
